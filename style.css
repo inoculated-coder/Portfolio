@@ -48,13 +48,11 @@ a:visited { color: red;   }
 a:hover   { color: blue; }
 a:active  { color: #900C3F;  }
 
-ol{
+li{
 	font-family: DejaVu Sans Mono, monospace;
 }
 
-ul{
-	font-family: OCR A Std, monospace;
-}
+
 hr{}
 
 
