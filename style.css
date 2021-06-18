@@ -1,11 +1,10 @@
 header{
 	background-color: #003459;
-	text-align: center;
+	
 }
 
 footer{
 	background-color: #007ea7;
-	text-align: center;
 }
 
 h1{
@@ -28,3 +27,7 @@ link{}
 ol{}
 a{}
 hr{}
+
+.text-align{
+	text-align: center;	
+}
