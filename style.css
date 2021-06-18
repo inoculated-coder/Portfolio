@@ -1,3 +1,9 @@
+h1 h2 h3 p{
+	
+	text-align: center;
+	
+}
+
 header{
 	background-color: #003459;
 	
@@ -28,6 +34,4 @@ ol{}
 a{}
 hr{}
 
-.text-align{
-	text-align: center;	
-}
+
