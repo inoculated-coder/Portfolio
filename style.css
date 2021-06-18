@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .text-align{
 	
 	text-align: center;
@@ -6,15 +10,18 @@
 
 header{
 	background-color: #003459;
+	height: 100px;
 	
 }
 
 footer{
 	background-color: #007ea7;
+	padding-top: 25px;
 }
 
 body{
 	background-color: #00a8e8;
+	margin-top: 20px;
 }
 
 h1{
@@ -30,12 +37,19 @@ h3{
 	color: white;
 	font-family: OCR A Std, monospace;
 }
-p{
 
+p{
+	color: white;
+	font-family: URW Chancery L, cursive;
 }
-link{}
+
+a:link    { color: green;  }
+a:visited { color: red;   }
+a:hover   { color: blue; }
+a:active  { color: #900C3F;  }
+
 ol{}
-a{}
+
 hr{}
 
 
