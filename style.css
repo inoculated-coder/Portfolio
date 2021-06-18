@@ -9,11 +9,21 @@ footer{
 }
 
 h1{
-	
+	color: white;
+	font-family: Helvetica, serif;
+	font-size: 55px
 }
-h2{}
-h3{}
-p{}
+h2{
+	color: white;
+	font-family: Palatino, URW Palladio L, serif;
+}
+h3{
+	color: white;
+	font-family: OCR A Std, monospace;
+}
+p{
+
+}
 link{}
 ol{}
 a{}
