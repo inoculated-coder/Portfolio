@@ -24,6 +24,18 @@ body{
 	margin-top: 20px;
 }
 
+ol{
+	color: red;
+}
+
+ul{
+	color: white;
+}
+
+li{
+	font-family: DejaVu Sans Mono, monospace;
+}
+
 h1{
 	color: white;
 	font-family: Helvetica, serif;
@@ -48,10 +60,7 @@ a:visited { color: red;   }
 a:hover   { color: blue; }
 a:active  { color: #900C3F;  }
 
-li{
-	font-family: DejaVu Sans Mono, monospace;
-	color: white;
-}
+
 
 
 hr{}
