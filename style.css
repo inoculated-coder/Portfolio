@@ -60,7 +60,11 @@ a:visited { color: red;   }
 a:hover   { color: blue; }
 a:active  { color: #900C3F;  }
 
-
+.img-struct{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+}
 hr{}
 
 
